@@ -1,8 +1,8 @@
 ---
 type: header
 logo:
-  src: ../assets/logo.svg
-  alt: logo de foudroyer
+  src: ../assets/sans_titre_17_.png
+  alt: logo
 tabs:
   - type: follow
     theme: link
